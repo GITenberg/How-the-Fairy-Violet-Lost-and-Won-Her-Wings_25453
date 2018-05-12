@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31346'
     url: http://www.gutenberg.org/2009/agents/31346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25453#How-the-Fairy-Violet-Lost-and-Won-Her-Wings
 gutenberg_issued: '2008-05-12'
 gutenberg_type: Text
 identifiers:
