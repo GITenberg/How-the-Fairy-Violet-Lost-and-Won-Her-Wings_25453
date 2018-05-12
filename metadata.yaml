@@ -1,0 +1,30 @@
+_repo: How-the-Fairy-Violet-Lost-and-Won-Her-Wings_25453
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Martin, J. A.
+    gutenberg_agent_id: '31345'
+    url: http://www.gutenberg.org/2009/agents/31345
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ker, Marianne L. B.
+    gutenberg_agent_id: '31346'
+    url: http://www.gutenberg.org/2009/agents/31346
+description: ''
+gutenberg_issued: '2008-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fairies -- Juvenile fiction'
+title: How the Fairy Violet Lost and Won Her Wings
+url: http://www.gutenberg.org/ebooks/25453
